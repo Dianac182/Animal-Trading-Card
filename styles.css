@@ -1,0 +1,42 @@
+/* add your CSS here */
+.card {
+    border: #f8f8ff 2px solid;
+    border-radius: 10px;
+    width: 320px;
+    box-shadow: 10px 10px 5px 0 #dcdcdc;
+    text-align: justify;
+    background: linear-gradient( to right, 	#66eee4, 	#56d9ec, 		#2da7c1);
+}
+
+.title {
+    margin: 0;
+    padding: 20px 10px;
+}
+
+.description {
+    width: 276px;
+    padding: 10px;
+    margin: 10px;
+    border: #f8f8ff 2px solid;
+}
+
+.interesting-fact {
+    font-style: italic;
+}
+
+ul {
+    padding: 0;
+}
+
+span {
+    font-weight: bold;
+}
+
+li {
+    list-style-type: none;
+}
+
+.image {
+    width: 300px;
+    padding: 0 10px;
+}
